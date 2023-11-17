@@ -1,0 +1,20 @@
+[
+  'QUARTER', 0.5, 'DIME',   0.5, 'DIME',   0.5,
+  'DIME',    0.5, 'DIME',   0.5, 'NICKEL', 0.5,
+  'NICKEL',  0.5, 'NICKEL', 0.5, 'NICKEL', 0.5,
+  'NICKEL',  0.5, 'NICKEL', 0.5, 'NICKEL', 0.5,
+  'NICKEL',  0.5, 'NICKEL', 0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5, 'PENNY',  0.5,
+  'PENNY',   0.5, 'PENNY',  0.5,
+  ... 26 more items
+]
